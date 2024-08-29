@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cloud-Based Workflow Management</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <nav>
+      <div class="container">
+        <div class="logo">WorkflowPro</div>
+        <ul class="nav-links">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Features</a></li>
+          <li><a href="#">Pricing</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container">
+      <h1>Revolutionize Your Team's Workflow</h1>
+      <p>Streamline projects and enhance collaboration with our all-in-one cloud-based solution.</p>
+      <a href="#" class="cta-button">Get Started for Free</a>
+      <a href="#" class="cta-button">Schedule a Demo</a>
+    </div>
+  </section>
+
+  <!-- Features Section -->
+  <section class="features">
+    <div class="container">
+      <h2>Key Features</h2>
+      <div class="feature-item">
+        <h3>Customizable Dashboards</h3>
+        <p>Personalize your workspace to suit your needs.</p>
+      </div>
+      <div class="feature-item">
+        <h3>Real-Time Collaboration</h3>
+        <p>Work together seamlessly from anywhere.</p>
+      </div>
+      <div class="feature-item">
+        <h3>Task and Project Management</h3>
+        <p>Define, track, and manage tasks with ease.</p>
+      </div>
+      <div class="feature-item">
+        <h3>Document Sharing</h3>
+        <p>Upload, share, and edit documents effortlessly.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Testimonials Section -->
+  <section class="testimonials">
+    <div class="container">
+      <h2>What Our Users Say</h2>
+      <p>"WorkflowPro has transformed the way our team works together. The customization options and real-time updates keep us all on the same page!" - Alex, Project Manager</p>
+      <p>"This is by far the most user-friendly project management tool we've used. Highly recommend!" - Jamie, Team Lead</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 WorkflowPro. All rights reserved.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
